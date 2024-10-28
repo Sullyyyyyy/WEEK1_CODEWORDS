@@ -1,0 +1,2 @@
+Week 1:
+Week 1 was the introduction to coding, we downloaded various apps to get started, and we were introduced to HTML, Github, and Visual Studio code, which we were going to use later throughout the semester. Our first task was to design a page called Hello World! Using a chosen image as the background we coded our font and design on the page as our first step into coding, this allowed us to practice the simple uses of coding. We also had various readings that we read through as a way to grasp some knowledge about this new topic.
